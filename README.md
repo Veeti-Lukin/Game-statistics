@@ -1,5 +1,5 @@
 # Game-statistics
-Text based program to ceep track of multiple games players of those games and their scores.
+Text based program to keep track of multiple games players of those games and their scores.
 
 ## About the program
 Acts as a game statistics with these commands
