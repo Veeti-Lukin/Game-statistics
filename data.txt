@@ -1,0 +1,15 @@
+Sudoku;Matti;1
+Sudoku;Manu;25
+Sudoku;Maarit;50
+Sudoku;Master Player;100
+Hitori;Manu;10
+Hitori;Mikko;10
+Hitori;Maarit;30
+Hitori;Master Player;100
+Minesweeper;Minna;40
+Minesweeper;Manu;50
+Minesweeper;Mikko;60
+Afrikan tähti;Maarit;1
+Afrikan tähti;Juho;5
+Kimble;Minna;5
+Kimble;Juho;10
