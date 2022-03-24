@@ -22,6 +22,6 @@ Otherwise the program execution terminates instantly (but still gracefully).
   
   
 ## Notes about the program and it's implementation:
-Stats of the games is implemented in class that contains datastructure of information of the games, players and scores.
-Main will handle csv file reading and all interaction with user.
-All changes to game stats and stat printing will be done from Game_statistics instances public interface
+- Stats of the games is implemented in class that contains datastructure of information of the games, players and scores.
+- Main will handle csv file reading and all interaction with user.
+- All changes to game stats and stat printing will be done from Game_statistics instances public interface
